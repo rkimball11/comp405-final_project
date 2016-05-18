@@ -1,3 +1,5 @@
+This application is for one of Linfield College's Computer Science courses. The course is COMP405, Platform-Based Software Development.
+
 == README
 
 This README would normally document whatever steps are necessary to get the
