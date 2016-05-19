@@ -19,9 +19,15 @@ textarea {
 
 .center {
   text-align: center;
+<<<<<<< HEAD
    h1 {
   		margin-bottom: 10px;
 	}
+=======
+  h1 {
+  margin-bottom: 10px;
+  }
+>>>>>>> filling-in-layout
 }
 
 /* typography */
@@ -30,6 +36,11 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1;
 }
 
+<<<<<<< HEAD
+=======
+@gray-light: #777;
+
+>>>>>>> filling-in-layout
 h1 {
   font-size: 3em;
   letter-spacing: -2px;
@@ -62,10 +73,17 @@ p {
   letter-spacing: -1px;
   padding-top: 9px;
   font-weight: bold;
+<<<<<<< HEAD
 	&:hover {
   		color: #fff;
   		text-decoration: none;
 	}
+=======
+  &:hover {
+  color: #fff;
+  text-decoration: none;
+  }
+>>>>>>> filling-in-layout
 }
 
 /* footer */
@@ -76,6 +94,7 @@ footer {
   border-top: 1px solid $gray-medium-light;
   color: $gray-light;
   a {
+<<<<<<< HEAD
   	color: $gray;
   &:hover {
   	color: $gray-darker;
@@ -93,3 +112,22 @@ footer {
   }
  }
 }
+=======
+    color: $gray;
+    &:hover {
+      color: $gray-darker;
+    }
+  }
+  small {
+    float: left;
+  }
+  ul {
+    float: right;
+    list-style: none;
+    li {
+      float: left;
+      margin-left: 15px;
+    }
+  }
+}
+>>>>>>> filling-in-layout
