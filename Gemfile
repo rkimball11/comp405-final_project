@@ -8,7 +8,6 @@ gem 'faker'
 gem 'will_paginate'
 gem 'bootstrap-will_paginate'
 gem 'bootstrap-sass'
-gem 'acts_as_commentable'
 
 # Use sqlite3 as the database for Active Record
 # Use SCSS for stylesheets
