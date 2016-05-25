@@ -1,5 +1,5 @@
 Rails.application.routes.draw do
-  resources :comments
+
   get 'sessions/new'
   get 'users/new'
   get 'users/new'

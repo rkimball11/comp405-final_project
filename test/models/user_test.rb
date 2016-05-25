@@ -86,7 +86,7 @@ class UserTest < ActiveSupport::TestCase
   end
 end
 
-test "feed should have the right posts" do
+  test "feed should have the right posts" do
     michael = users(:michael)
     archer  = users(:archer)
     lana    = users(:lana)
